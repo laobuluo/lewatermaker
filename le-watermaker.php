@@ -1,11 +1,11 @@
 <?php
 /**
  * Plugin Name: LeWaterMaker
- * Plugin URI: https://www.lezaiyun.com/1007.html
+ * Plugin URI:  https://www.laojiang.me/6351.html
  * Description: 为WordPress文章中的图片自动添加水印效果，支持平铺和单个居中两种模式，可自定义文字、字体、颜色、透明度等设置
  * Version: 1.0.1
  * Author: 老蒋和他的伙伴们
- * Author URI: https://www.lezaiyun.com
+ * Author URI: https://www.laojiang.me
  * License: GPL v2 or later
  * License URI: https://www.gnu.org/licenses/gpl-2.0.html
  * Requires at least: 5.0
